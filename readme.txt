@@ -13,3 +13,4 @@ I will continue to write something to simulate dev.....
 
 
 dev branch
+Creating a new branch is quick & simple.
